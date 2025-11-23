@@ -1,6 +1,5 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -46,9 +45,15 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![WhatsApp Image 2025-11-23 at 15 09 17_fad01cb0](https://github.com/user-attachments/assets/27ca8d00-ab98-4f1f-9944-2737be87d311)
+![WhatsApp Image 2025-11-23 at 15 09 30_6d393d84](https://github.com/user-attachments/assets/c9d7dfc7-2114-4d1b-8acd-9f36d650819f)
+![WhatsApp Image 2025-11-23 at 15 09 46_9c7db2e9](https://github.com/user-attachments/assets/21b5cea3-ffe8-4649-8087-b125d62a0308)
 
-### Name:
-### Register Number:
+
+
+
+### Name: T.HUDAIFA MAHZUMIA
+### Register Number: 212224040119
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
